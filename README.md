@@ -16,10 +16,9 @@ A simple currency converter web application that allows users to convert currenc
 
 ## How to Use
 
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Enter the amount you want to convert and select the currencies you want to convert from and to.
-4. The converted amount will be displayed instantly.
+1. Go to [https://currency-ex-change.netlify.app/]
+2. Enter the amount you want to convert and select the currencies you want to convert from and to.
+3. The converted amount will be displayed instantly.
 
 ## Demo
 
